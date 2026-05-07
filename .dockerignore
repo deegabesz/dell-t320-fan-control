@@ -1,0 +1,8 @@
+.git
+.github
+.gitignore
+.dockerignore
+mikrotik/
+README.md
+LICENSE
+*.md

@@ -1,0 +1,13 @@
+*.swp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Credentials – soha ne kerüljön a repo-ba!
+mikrotik/credentials.rsc
+*.credentials.rsc
+.env
+secrets.*
